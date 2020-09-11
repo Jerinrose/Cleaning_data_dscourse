@@ -7,9 +7,9 @@ This repo is for the Getting and Cleaning Data Project.
 ### Files 
 These are the files present in the repo
 
-1.[Codebook.md]() a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data 
+1.[Codebook.md](https://github.com/Jerinrose/Cleaning_data_dscourse/blob/master/CodeBook.md) a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data 
 
-2.[run_analysis.R]() performs the data preparation and the 5 steps required in the course project's definition
+2.[run_analysis.R](https://github.com/Jerinrose/Cleaning_data_dscourse/blob/master/run_analysis.R) performs the data preparation and the 5 steps required in the course project's definition
 
   - Merges the training and the test sets to create one data set.
   
@@ -21,4 +21,4 @@ These are the files present in the repo
   
   - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and               each subject.
   
-3.[data_tidy.txt]() is the final data file 
+3.[data_tidy.txt](https://github.com/Jerinrose/Cleaning_data_dscourse/blob/master/data_tidy.txt) is the final data file 
