@@ -1,10 +1,10 @@
-#Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 This repo is for the Getting and Cleaning Data Project.
 
-###Dataset used 
+### Dataset used 
 [Human Activity Recognition using Smartphone](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-###Files 
+### Files 
 These are the files present in the repo
 1.[Codebook.md]() a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data 
 
