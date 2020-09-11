@@ -44,7 +44,5 @@
   - All start with character t in column's name replaced by Time
 
 7.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-
-   data_tidy is created by sumarizing data.sub taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-  
-   Export data.tidy into [data_tidy.txt](https://github.com/Jerinrose/Cleaning_data_dscourse/blob/master/data_tidy.txt) file.
+  - data_tidy is created by sumarizing data.sub taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+  - Export data.tidy into [data_tidy.txt](https://github.com/Jerinrose/Cleaning_data_dscourse/blob/master/data_tidy.txt) file.
